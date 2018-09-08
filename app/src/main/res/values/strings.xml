@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dicoding Match</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="striker">Striker</string>
+    <string name="goal">Goal</string>
+    <string name="shot">Shot</string>
+    <string name="red_card">Red Card</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defender">Defender</string>
+    <string name="midfielder">Midfielder</string>
+    <string name="last_match">Last Match</string>
+    <string name="next_match">Next Match</string>
+
+</resources>

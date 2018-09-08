@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="event_team" type="id" />
+    <item name="event_time" type="id" />
+    <item name="home_logo" type="id" />
+    <item name="team_home" type="id" />
+    <item name="team_away" type="id" />
+    <item name="away_logo" type="id" />
+    <item name="score_home" type="id" />
+    <item name="score_away" type="id" />
+</resources>
